@@ -2,7 +2,7 @@
 
 A React task manager with localStorage persistence.
 
-**Live demo:** https://task-manager-lovelave404.vercel.app
+**Live demo:** https://task-manager-lovelace.vercel.app
 
 ## Features
 - Add, complete, and delete tasks
