@@ -13,5 +13,5 @@ A React task manager with localStorage persistence.
 
 ## Tech used
 - React (hooks: useState, useEffect)
-- CSS (custom dark theme)
+- CSS 
 - localStorage API
